@@ -5,3 +5,5 @@ WebGL CPU profiling WebExtension
 ## Install
 
 ## Usage
+
+## License 
