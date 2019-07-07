@@ -8,6 +8,8 @@ WebGL CPU profiling WebExtension
 
 ### Chrome
 
+### Other browsers
+
 ## Usage
 
 ## License 
