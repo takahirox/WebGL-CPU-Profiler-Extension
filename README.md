@@ -4,6 +4,8 @@ WebGL CPU profiling WebExtension
 
 WebGL-Profiler-Extension is 
 
+## Features
+
 ## Install
 
 ### FireFox
