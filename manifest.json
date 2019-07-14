@@ -1,0 +1,28 @@
+﻿{
+  "name": "WebGL CPU Prifiler",
+  "short_name": "WebGL CPU Prifiler",
+  "version": "0.0.1",
+  "description": "WebGL CPU Prifiler",
+  "permissions": [
+    "tabs",
+    "<all_urls>",
+    "storage"
+  ],
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": [
+    ],
+    "run_at": "document_start",
+    "all_frames": true
+  }],
+  "browser_action": {
+    "default_icon": {},
+    "default_title": "WebGL CPU Prifiler"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "manifest_version": 2,
+  "web_accessible_resources": [
+  ]
+}
