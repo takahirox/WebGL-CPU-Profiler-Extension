@@ -2,6 +2,8 @@
 
 WebGL-CPU-Profiler-Extension is WebExtension profiling CPU side for WebGL call.
 
+![Screenshot](./screenshots/screenshot.png)
+
 ## Install
 
 Download this project and install extension to your browser. This extension is in development. I recommend temporary/Developer mode installation.
