@@ -10,7 +10,7 @@ function injectionScript() {
 
     for(const key in context) {
       if(typeof context[key] !== 'number') continue;
-      if(key.match(/^[A-Z_]+$/) === null) continue;
+      if(key.match(/^[0-9A-Z_]+$/) === null) continue;
 
       const value = context[key];
       if(constDictionary[value] === undefined) {
