@@ -1,8 +1,16 @@
 # WebGL-CPU-Profiler-Extension
 
-WebGL-CPU-Profiler-Extension is WebExtension profiling CPU side for WebGL call.
+WebGL-CPU-Profiler-Extension is a cross platform WebExtension profiling CPU side for WebGL call.
 
 ![Screenshot](./screenshots/screenshot.png)
+
+## Features
+
+- WebExtension
+- Cross platform
+- Any graphics engine
+- WebGL command history
+- CPU elapsed time
 
 ## Install
 
@@ -31,6 +39,10 @@ You can access WebGL call history with `WebGLCPUProfiler.history`. It's an JavaS
 ![history](./screenshots/history.png)
 ![filter](./screenshots/filter.png)
 ![sort](./screenshots/sort.png)
+
+## Other WebGL profiler
+
+- [Spector.js](https://spector.babylonjs.com/)
 
 ## License 
 
